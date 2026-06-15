@@ -1,0 +1,6 @@
+# Local environment variables (Passwords & API Keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
